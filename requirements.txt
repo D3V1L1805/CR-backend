@@ -6,3 +6,4 @@ pandas
 tabula-py
 uvicorn
 python-multipart
+jpype
