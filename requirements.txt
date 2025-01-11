@@ -5,3 +5,4 @@ pillow
 pandas
 tabula-py
 uvicorn
+python-multipart
