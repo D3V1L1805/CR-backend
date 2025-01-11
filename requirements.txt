@@ -1,0 +1,6 @@
+fastapi
+pathlib
+pymupdf
+pillow
+pandas
+tabula-py
