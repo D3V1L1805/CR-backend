@@ -6,4 +6,4 @@ pandas
 tabula-py
 uvicorn
 python-multipart
-jpype1==1.5.6
+jpype1
