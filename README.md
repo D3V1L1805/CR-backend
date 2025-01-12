@@ -18,14 +18,14 @@ This backend API is built with Python and containerized using Docker. It allows 
 - Extracts text content from the uploaded PDF.
 - Handles Unicode mapping issues gracefully.
 - Returns extracted text as JSON to the client.
-- Built with Flask for simplicity and ease of deployment.
+- Built with FastApi for simplicity and ease of deployment.
 - Containerized with Docker for portability.
 
 ## Tech Stack
 
 - **Python**: Core language.
-- **Flask**: Web framework for handling requests and responses.
-- **PyPDF2 or PDFBox**: Library for extracting text from PDFs.
+- **FastApi**: Web framework for handling requests and responses.
+- **PyPDF2 and Tabula**: Library for extracting text from PDFs.
 - **Docker**: For containerizing the application.
 - **Render**: Hosting platform for deployment.
 
