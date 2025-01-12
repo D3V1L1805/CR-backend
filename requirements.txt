@@ -7,3 +7,4 @@ tabula-py
 uvicorn
 python-multipart
 jpype1
+openpyxl
