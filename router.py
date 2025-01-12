@@ -15,11 +15,12 @@ origins = [
     "https://cr-frontend.netlify.app/",
     "https://d3v1l1805.github.io/CR-frontend/",
     "https://cr-frontend-ten.vercel.app/"
+    "https://cr-frontend-ten.vercel.app/static/js/components/UploadZone.js/"
 ]
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"], 
     allow_headers=["*"], 
