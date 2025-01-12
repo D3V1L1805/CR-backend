@@ -13,7 +13,8 @@ origins = [
     "http://localhost",
     "http://localhost:3000",
     "https://cr-frontend.netlify.app/",
-    "https://d3v1l1805.github.io/CR-frontend/"
+    "https://d3v1l1805.github.io/CR-frontend/",
+    "https://cr-frontend-ten.vercel.app/"
 ]
 
 app.add_middleware(
